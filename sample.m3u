@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="news1" group-title="News",Harbor News HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="news2" group-title="News",Metro 24
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="sport1" group-title="Sports",Stadium One
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="doc1" group-title="Documentary",Open Sky
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
